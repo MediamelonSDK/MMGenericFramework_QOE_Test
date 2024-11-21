@@ -1,0 +1,6 @@
+framework module MMGenericFramework_QOE {
+  umbrella header "MMGenericFramework_QOE.h"
+  export *
+
+  module * { export * }
+}
